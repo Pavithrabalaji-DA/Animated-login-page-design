@@ -52,7 +52,8 @@ If you would like to contribute to the project:
 
 The final result of this project is a sleek and interactive login page with animations that enhance the user experience. Upon clicking on input fields, smooth transitions are triggered, giving the form a dynamic and professional feel. The page is fully responsive, ensuring an optimal experience across various devices, from desktops to mobile phones.
 
-![resultado](https://pavithrabalaji-da.github.io/Animated-login-page-design/)
+(https://pavithrabalaji-da.github.io/Animated-login-page-design/)
+
 
 
 
